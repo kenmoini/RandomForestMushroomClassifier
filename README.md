@@ -11,6 +11,11 @@
 **Author**: Ian Brooks
 **Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/)
 
+What would Bear do?  
+![alt text][logo]
+
+[logo]:https://static.thenortheasttoday.com/wp-content/uploads/2016/12/BearGrylls-800x445.png
+
 ## Pre-Run Instructions
 
 1. File Upload: Upload the source data file MushroomDatabase.csv to HDFS in the /tmp directory 
