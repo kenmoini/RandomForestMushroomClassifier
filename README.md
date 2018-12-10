@@ -14,7 +14,7 @@
 What would Bear do?  
 ![alt text][logo]
 
-[logo]:https://static.thenortheasttoday.com/wp-content/uploads/2016/12/BearGrylls-800x445.png
+[logo]:https://raw.githubusercontent.com/kenmoini/RandomForestMushroomClassifier/master/bear-1.jpg
 
 ## Pre-Run Instructions
 
